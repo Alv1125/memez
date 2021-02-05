@@ -1,5 +1,5 @@
 ## This script deploy memez as a service
-$username = "42" # change username to the target user
+$username = "ALUMNO\AESTPER" # change username to the target user
 # don't change anything below here
 
 $filepath = 'C:\memez.exe'
